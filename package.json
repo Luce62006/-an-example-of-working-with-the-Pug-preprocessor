@@ -1,0 +1,15 @@
+{
+  "name": "pug",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jstransformer-markdown-it": "^2.1.0",
+    "pug-cli": "^1.0.0-alpha6"
+  }
+}
